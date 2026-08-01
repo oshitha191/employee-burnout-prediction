@@ -1,3 +1,6 @@
+<img width="783" height="623" alt="Screenshot 2026-08-01 195315" src="https://github.com/user-attachments/assets/ebb562a4-5dbf-4287-8bf4-010940543196" />
+<img width="497" height="702" alt="Screenshot 2026-08-01 195302" src="https://github.com/user-attachments/assets/8ef7d43c-bb76-4a30-a676-486dde950cfa" />
+<img width="497" height="702" alt="Screenshot 2026-08-01 195302" src="https://github.com/user-attachments/assets/cdf55a36-c7e4-4f93-a29b-540f0e2196da" />
 
 # Employee Burnout Prediction
 
